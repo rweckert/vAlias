@@ -39,8 +39,8 @@ Upon opening the vAlias script, click on the option for "View Alias". This will 
 This window displays all the alias commands from the ".bash_aliases" file. Options and features are as follows:<br/>
 **- Double Click:** Perform a double click on a listed alias command to open the vAlias Detail window.<br/>
 **- Backup:** Allows the user to select a directory to backup a copy of all alias commands.<br/>
-**- Save As:** Save a copy of the '~/.bash_aliases' file into a directory specified.<br/>
-**- Edit Copy:** Opens a copy of the '~/.bash_aliases' file in the default text editor.<br/>
+**- Save As:** Save a copy of the ".bash_aliases" file into a directory specified.<br/>
+**- Edit Copy:** Opens a copy of the ".bash_aliases" file in the default text editor.<br/>
 **- Help:** Opens help documentation.<br/>
 **- Close:** Closes the "vAlias-View" window.<br/>
 
