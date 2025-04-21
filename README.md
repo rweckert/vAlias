@@ -107,19 +107,12 @@ YAD (Yet Another Dialog), a tool for developing graphical user interfaces in Lin
 Script interface written by: Robert W. Eckert - rweckert@gmail.com
 Please feel free to email to submit bugs, changes or requests.
 
-### Project Contents: <br/>
-
+### Project Contents:
 **Project Page:** <br/>
-
+[https://github.com/rweckert/vAlias](https://github.com/rweckert/vAlias) <br/>
 **Source File:** <br/>
-
+[https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/vAlias.sh](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/vAlias.sh) <br/>
 **Documentation File:** <br/>
-
+[https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md) <br/>
 **Project Screenshot:** <br/>
-
-
-
-
-
-
-
+[https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg) <br/>
