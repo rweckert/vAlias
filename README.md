@@ -23,7 +23,7 @@ _chmod +x vAlias.sh_
 - Use the 'F1' key for documentation from any main window.
 
 ### Typical Usage:
-Upon opening the vAlias script, click on the option for "View Alias". This will show you a list of all alias commands from a copied '~/.bash_aliases' file. Easily sort, save, and edit as needed. A double click on a alias command entry will show you the details of that command where you can copy the command to the system clipboard. Open the terminal using the "Terminal" option where you can test your direct changes.
+Upon opening the vAlias script, click on the option for "View Alias". This will show you a list of all alias commands from a copied ".bash_aliases" file. Easily sort, save, and edit as needed. A double click on a alias command entry will show you the details of that command where you can copy the command to the system clipboard. Open the terminal using the "Terminal" option where you can test your direct changes.
 
 ### Detailed Options and Usage:
 **Main Menu:** When running the vAlias script the main menu will appear with the following options:<br/>
@@ -51,8 +51,8 @@ Double clicking on a listed alias command from the "vAlias-View" window will ope
 
 ### vAlias Settings:
 This window allows you to customize the command used to open the terminal window:<br/>
-**- Set Terminal Command:** Enter the command used to open the terminal window of your choice when using the "Terminal" option from the main menu.
-**- Save Command:** Saves the command entered for future use.
+**- Set Terminal Command:** Enter the command used to open the terminal window of your choice when using the "Terminal" option from the main menu.<br/>
+**- Save Command:** Saves the command entered for future use.<br/>
 **- Cancel Entry:** Closes the "vAlias Settings" window without saving changes.
 
 ### Theme Options:
@@ -70,6 +70,7 @@ The "Theme" main menu option allows the user to change settings for the theme be
 - vAlias can be ran from any directory.<br/>
 - vAlias uses the /tmp/ folder for temporary and .ini files.<br/>
 - Use the 'F1' key for documentation from any main window.<br/>
+- If the ".bash_aliases" file does not exist the utility will not display any alias commands.
 
 ### vAlias Shortcut File:<br/>
 Save the following as a file named "vAlias.desktop" in creating a shortcut to this utility. Update the path for "Exec" to where the script is stored:<br/>
