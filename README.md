@@ -7,7 +7,6 @@ Provides simplicity in viewing alias file entries. Allows for sorting the alias 
 ![vAlias Screenshot](https://github.com/rweckert/vAlias/blob/8c750932668039121f822a129f4fa9b81846884a/screenshot-vAlias.jpg)
 
 ### Setup:
-Setup:
 1) Save the vAlias.sh file to a directory.
 2) Make the vAlias.sh script executable by running the following command in the same directory as the pSupply.sh file:<br/>
 _chmod +x vAlias.sh_
@@ -25,4 +24,77 @@ _chmod +x vAlias.sh_
 
 ### Typical Usage:
 Upon opening the vAlias script, click on the option for "View Alias". This will show you a list of all alias commands from a copied '~/.bash_aliases' file. Easily sort, save, and edit as needed. A double click on a alias command entry will show you the details of that command where you can copy the command to the system clipboard. Open the terminal using the "Terminal" option where you can test your direct changes.
+
+### Detailed Options and Usage:
+**Main Menu:** When running the vAlias script the main menu will appear with the following options:<br/>
+**- View Alias:** Opens the "Alias View" window showing all alias commands.<br/>
+**- Refresh:** Updates the Alias Detail view window and displays any changes.<br/>
+**- Terminal:** Opens the terminal window. Change the command that opens the terminal window using the "Settings" option.<br/>
+**- Settings:** Customize the command that opens the terminal window.<br/>
+**- Theme:** Options will allow you to select a theme for vAlias.<br/>
+**- Help:** Opens vAlias documentation.<br/>
+**- Exit:** Closes all vAlias windows and menus.<br/>
+
+### View Alias Window:
+This window displays all the alias commands from the '~/.bash_aliases' file. Options and features are as follows:<br/>
+**- Double Click:** Perform a double click on a listed alias command to open the vAlias Detail window.<br/>
+**- Backup:** Allows the user to select a directory to backup a copy of all alias commands.<br/>
+**- Save As:** Save a copy of the '~/.bash_aliases' file into a directory specified.<br/>
+**- Edit Copy:** Opens a copy of the '~/.bash_aliases' file in the default text editor.<br/>
+**- Help:** Opens help documentation.<br/>
+**- Close:** Closes the "vAlias-View" window.<br/>
+
+### vAlias Detail Window:
+Double clicking on a listed alias command from the "vAlias-View" window will open the "vAlias Detail" window with the following options:<br/>
+**- Copy Alias:** Copies the listed alias command to the system clipboard.<br/>
+**- Close Detail:** Closes the "vAlias Detail" window.<br/>
+
+### vAlias Settings:
+This window allows you to customize the command used to open the terminal window:<br/>
+**- Set Terminal Command:** Enter the command used to open the terminal window of your choice when using the "Terminal" option from the main menu.
+**- Save Command:** Saves the command entered for future use.
+**- Cancel Entry:** Closes the "vAlias Settings" window without saving changes.
+
+### Theme Options:
+The "Theme" main menu option allows the user to change settings for the theme being used, as well as access to "Help" and "About" options.<br/>
+**- Load Theme:** Allows the user to browse their system for a theme to use.<br/>
+**- Apply Loaded Theme:** Applies the loaded theme. Once selected the Options window will close and re-open showing the theme selected in use.<br/>
+**- Mode:** Select basic system theme available in the system for "Light Theme" or "Dark Theme". This default uses the "Breeze" theme package located in the "/usr/share/themes/" folder.<br/>
+**- Apply System Theme:** Applies the Mode selected for either "Light Theme" or "Dark Theme". Once selected the Options window will close and re-open showing the theme selected in use.<br/>
+**- Browse Themes Folder:** Browse the default themes folder "/usr/share/themes/".<br/>
+**- Help:** Opens gMapping help documentation.<br/>
+**- About:** Opens the about window showing script credits.<br/>
+**- Close:** Closes the "Options" window.<br/>
+
+### Notes:
+- vAlias can be ran from any directory.<br/>
+- vAlias uses the /tmp/ folder for temporary and .ini files.<br/>
+- Use the 'F1' key for documentation from any main window.<br/>
+
+### vAlias Shortcut File:<br/>
+Save the following as a file named "vAlias.desktop" in creating a shortcut to this utility. Update the path for "Exec" to where the script is stored:<br/>
+[Desktop Entry]<br/>
+Name=vAlias<br/>
+GenericName=vAlias<br/>
+Comment=A simple alias viewing and backup utility.<br/>
+Exec=/PathToScript/vAlias.sh<br/>
+Type=Application<br/>
+Icon=gtk-zoom-fit<br/>
+Terminal=false<br/>
+
+### Project Contents: <br/>
+
+**Project Page:** <br/>
+
+**Source File:** <br/>
+
+**Documentation File:** <br/>
+
+**Project Screenshot:** <br/>
+
+
+
+
+
+
 
