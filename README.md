@@ -4,6 +4,7 @@ A simple alias viewing and backup utility.
 ### Script Purpose as a Tool:
 Provides simplicity in viewing alias file entries. Allows for sorting the alias file by name or command. When viewing alias entries, option for Backup, Save As, and Edit Copy are available. Open the terminal window from the main menu to test any system changes that you have made directly. **NOTE:** The script vAlias does not directly edit any system files. The vAlias script makes a copy of the '~/.bash_aliases' file to a temporary folder for viewing, opening, editing and saving. 
 
+![vAlias Screenshot](https://github.com/rweckert/vAlias/blob/8c750932668039121f822a129f4fa9b81846884a/screenshot-vAlias.jpg)
 
 ### Setup:
 Setup:
