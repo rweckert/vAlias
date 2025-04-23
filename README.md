@@ -7,8 +7,9 @@ Provides simplicity in viewing alias file entries. Allows for sorting the alias 
 ![vAlias Screenshot](https://github.com/rweckert/vAlias/blob/8c750932668039121f822a129f4fa9b81846884a/screenshot-vAlias.jpg)
 
 ### Setup:
-1) Save the vAlias.sh file to a directory.
-2) Make the vAlias.sh script executable by running the following command in the same directory as the pSupply.sh file:<br/>
+1. Please review "Common System Requirements" and "Critical System Requirements" sections below for basic and critical requirements to run this script successfully.
+2. Save the vAlias.sh file to a directory.
+3. Make the vAlias.sh script executable by running the following command in the same directory as the vAlias.sh file:
 _chmod +x vAlias.sh_
 
 ### Features:
@@ -69,8 +70,8 @@ The "Theme" main menu option allows the user to change settings for the theme be
 ### Notes:
 - vAlias can be ran from any directory.<br/>
 - vAlias uses the /tmp/ folder for temporary and .ini files.<br/>
-- Use the 'F1' key for documentation from any main window.<br/>
-- If the ".bash_aliases" file does not exist the utility will not display any alias commands.
+- If the ".bash_aliases" file does not exist the utility will not display any alias commands. <br/>
+- Use the 'F1' key for documentation from any main window.
 
 ### vAlias Shortcut File:<br/>
 Save the following as a file named "vAlias.desktop" in creating a shortcut to this utility. Update the path for "Exec" to where the script is stored:<br/>
@@ -84,28 +85,29 @@ Icon=gtk-zoom-fit<br/>
 Terminal=false<br/>
 
 ### Common System Requirements:
-The following applications are in general use of most Linux systems and are used in having vAlias deliver output:
-- awk
-- date
-- print
-- read
-- rm
-- sed
-- wait
-- wmctrl
-- xdg-open
+Common System Requirements:
+The following applications are in general use of most Linux systems and are used in having vAlias deliver output: <br/>
+- awk <br/>
+- date <br/>
+- print <br/>
+- read <br/>
+- rm <br/>
+- sed <br/>
+- sterm <br/>
+- wait <br/>
+- wmctrl <br/>
+- xdg-open <br/>
 
 ### Critical System Requirements:
-The most important requirement is the yad (yet another dialog) application which allows for the use of custom dialog, menu, and window options.
+Packages listed below provide the core ingredients for graphic display and desired output that enables SCRIPTNAME deliver output and are critical for successful execution of the the script:
 
-- yad 14.0+ (GTK+ 3.24.41) [https://github.com/v1cont/yad](https://github.com/v1cont/yad)
+- yad (Yet Another Dialog): 14.0+ (GTK+ 3.24.41). A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) 
 
-The mRunner script uses features of yad that do require version 14.0+ and built with GTK+ 3.24.41 or higher. Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch)
+---
 
-YAD (Yet Another Dialog), a tool for developing graphical user interfaces in Linux, is written by Victor Ananjevsky.
+Closing:
 
-Script interface written by: Robert W. Eckert - rweckert@gmail.com
-Please feel free to email to submit bugs, changes or requests.
+Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
 
 ### Project Contents:
 **Project Page:** <br/>
@@ -116,3 +118,5 @@ Please feel free to email to submit bugs, changes or requests.
 [https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md) <br/>
 **Project Screenshot:** <br/>
 [https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg) <br/>
+**GitHub Profile Page:** <br/>
+[https://github.com/rweckert](https://github.com/rweckert)
