@@ -9,7 +9,7 @@ Provides simplicity in viewing alias file entries. Allows for sorting the alias 
 ### Setup:
 1. Please review "[Common System Requirements](https://github.com/rweckert/vAlias/blob/main/README.md#common-system-requirements)" and "[Critical System Requirements](https://github.com/rweckert/vAlias/blob/main/README.md#critical-system-requirements)" sections below for basic and critical requirements to run this script successfully.
 2. Save the vAlias.sh file to a directory.
-3. Make the vAlias.sh script executable by running the following command in the same directory as the vAlias.sh file:
+3. Make the vAlias.sh script executable by running the following command in the same directory as the vAlias.sh file: <br/>
 _chmod +x vAlias.sh_
 
 ### Features:
