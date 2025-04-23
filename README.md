@@ -101,12 +101,12 @@ The following applications are in general use of most Linux systems and are used
 ### Critical System Requirements:
 Packages listed below provide the core ingredients for graphic display and desired output that enables SCRIPTNAME deliver output and are critical for successful execution of the the script:
 
-- yad (Yet Another Dialog): 14.0+ (GTK+ 3.24.41). A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) 
-
----
+**- yad (Yet Another Dialog):** 14.0+ (GTK+ 3.24.41). A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) 
 
 ### Closing:
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
+
+---
 
 ### Project Contents:
 **Project Page:** <br/>
