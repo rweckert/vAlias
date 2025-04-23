@@ -105,8 +105,7 @@ Packages listed below provide the core ingredients for graphic display and desir
 
 ---
 
-Closing:
-
+### Closing:
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
 
 ### Project Contents:
@@ -118,5 +117,7 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 [https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/README.md) <br/>
 **Project Screenshot:** <br/>
 [https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg) <br/>
+**Project Licensing:** <br/>
+[https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE](https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE)
 **GitHub Profile Page:** <br/>
 [https://github.com/rweckert](https://github.com/rweckert)
