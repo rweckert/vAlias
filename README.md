@@ -7,7 +7,7 @@ Provides simplicity in viewing alias file entries. Allows for sorting the alias 
 ![vAlias Screenshot](https://github.com/rweckert/vAlias/blob/8c750932668039121f822a129f4fa9b81846884a/screenshot-vAlias.jpg)
 
 ### Setup:
-1. Please review "Common System Requirements" and "Critical System Requirements" sections below for basic and critical requirements to run this script successfully.
+1. Please review "[Common System Requirements](https://github.com/rweckert/vAlias/blob/main/README.md#common-system-requirements)" and "[Critical System Requirements](https://github.com/rweckert/vAlias/blob/main/README.md#critical-system-requirements)" sections below for basic and critical requirements to run this script successfully.
 2. Save the vAlias.sh file to a directory.
 3. Make the vAlias.sh script executable by running the following command in the same directory as the vAlias.sh file:
 _chmod +x vAlias.sh_
@@ -118,6 +118,6 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 **Project Screenshot:** <br/>
 [https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg](https://github.com/rweckert/vAlias/blob/5a9b0187198c4743d73f15f4b4fd70f8b794bb28/screenshot-vAlias.jpg) <br/>
 **Project Licensing:** <br/>
-[https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE](https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE)
+[https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE](https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE) <br/>
 **GitHub Profile Page:** <br/>
 [https://github.com/rweckert](https://github.com/rweckert)
