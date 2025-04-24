@@ -1,4 +1,4 @@
-# vAlias
+# <img align="left" width="48" src="Icon-vAlias.png" /> vAlias
 A simple alias viewing and backup utility.
 
 ### Script Purpose as a Tool:
@@ -85,23 +85,13 @@ Icon=gtk-zoom-fit<br/>
 Terminal=false<br/>
 
 ### Common System Requirements:
-Common System Requirements:
-The following applications are in general use of most Linux systems and are used in having vAlias deliver output: <br/>
-- awk <br/>
-- date <br/>
-- print <br/>
-- read <br/>
-- rm <br/>
-- sed <br/>
-- sterm <br/>
-- wait <br/>
-- wmctrl <br/>
-- xdg-open <br/>
+Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review:
 
 ### Critical System Requirements:
-Packages listed below provide the core ingredients for graphic display and desired output that enables SCRIPTNAME deliver output and are critical for successful execution of the the script:
-
-**- yad (Yet Another Dialog):** 14.0+ (GTK+ 3.24.41). A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. Download: [https://github.com/v1cont/yad](https://github.com/v1cont/yad) Full setup instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) 
+Packages listed below provide the core ingredients for graphic display and desired output that enables mRunner to deliver output and are critical for successful execution of the the script:
+| Package       | Version              | Notes         |
+|     :---:     |         :---:        | :---          |
+| yad           | 14.0+ (GTK+ 3.24.41) | A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. **Download:** [https://github.com/v1cont/yad](https://github.com/v1cont/yad) **Setup:** Step by step instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) |
 
 ### Closing:
 Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel free to email to submit bugs, changes or requests. This script comes with absolutely no warranty. See the link for the GNU General Public License, version 3 or later listed below for further details.
