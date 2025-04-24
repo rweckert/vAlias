@@ -85,7 +85,7 @@ Icon=gtk-zoom-fit<br/>
 Terminal=false<br/>
 
 ### Common System Requirements:
-Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review:
+Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review: [https://github.com/rweckert/vAlias/blob/07e596423567771d7b7c8428ae76c4e5d744ba91/README-Basic-Requirements.md](https://github.com/rweckert/vAlias/blob/07e596423567771d7b7c8428ae76c4e5d744ba91/README-Basic-Requirements.md)
 
 ### Critical System Requirements:
 Packages listed below provide the core ingredients for graphic display and desired output that enables mRunner to deliver output and are critical for successful execution of the the script:
@@ -110,4 +110,5 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 **Project Licensing:** <br/>
 [https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE](https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE) <br/>
 **GitHub Profile Page:** <br/>
+
 [https://github.com/rweckert](https://github.com/rweckert)
