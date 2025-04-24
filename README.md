@@ -110,5 +110,4 @@ Script interface written by: Robert W. Eckert - rweckert@gmail.com Please feel f
 **Project Licensing:** <br/>
 [https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE](https://github.com/rweckert/vAlias/blob/eed51547e49903df6f96930daf54f03dbcb62838/LICENSE) <br/>
 **GitHub Profile Page:** <br/>
-
 [https://github.com/rweckert](https://github.com/rweckert)
