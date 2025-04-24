@@ -88,7 +88,7 @@ Terminal=false<br/>
 Common shell commands found in most Linux installations are used to provide system functionalilty for this and other scripts shared from this profile. For thoroughness, these common shell commands are listed in alphabetical order with version and man page link for review: [https://github.com/rweckert/vAlias/blob/07e596423567771d7b7c8428ae76c4e5d744ba91/README-Basic-Requirements.md](https://github.com/rweckert/vAlias/blob/07e596423567771d7b7c8428ae76c4e5d744ba91/README-Basic-Requirements.md)
 
 ### Critical System Requirements:
-Packages listed below provide the core ingredients for graphic display and desired output that enables mRunner to deliver output and are critical for successful execution of the the script:
+Packages listed below provide the core ingredients for graphic display and desired output that enables vAlias to deliver output and are critical for successful execution of the the script:
 | Package       | Version              | Notes         |
 |     :---:     |         :---:        | :---          |
 | yad           | 14.0+ (GTK+ 3.24.41) | A tool for developing graphical user interfaces in Linux and is used by this script to generate menus and dialog windows, is written by Victor Ananjevsky. **Download:** [https://github.com/v1cont/yad](https://github.com/v1cont/yad) **Setup:** Step by step instructions are available for either Linux or Microsoft Windows Subsystem for Linux (WSL) using a Debian base: [https://github.com/rweckert/yad-14.0-Setup-From-Scratch](https://github.com/rweckert/yad-14.0-Setup-From-Scratch) |
